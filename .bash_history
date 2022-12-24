@@ -31,3 +31,6 @@ git commit -m "first commit"
 git add
 git push origin
 sudo su
+ls
+git status
+sudo su
